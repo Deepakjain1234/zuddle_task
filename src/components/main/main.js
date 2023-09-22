@@ -14,19 +14,16 @@ export const Main=()=>{
             },
             {
                 "name":"2017 Goals & KPIs",
-                // "imageLink":"https://firebasestorage.googleapis.com/v0/b/ecell-1b04d.appspot.com/o/files%2FScreenshot%202023-09-22%20190610.png?alt=media&token=23c5be09-ea93-4f50-8d22-aa83d71f7117",
                 "attach":3,
                 "comment":"yes"
             },
             {
                 "name":"Brand Guide",
-                // "imageLink":"https://firebasestorage.googleapis.com/v0/b/ecell-1b04d.appspot.com/o/files%2FScreenshot%202023-09-22%20190610.png?alt=media&token=23c5be09-ea93-4f50-8d22-aa83d71f7117",
                 "attach":3,
                 "comment":"yes"
             },
             {
                 "name":"Employee Manual",
-                // "imageLink":"https://firebasestorage.googleapis.com/v0/b/ecell-1b04d.appspot.com/o/files%2FScreenshot%202023-09-22%20190610.png?alt=media&token=23c5be09-ea93-4f50-8d22-aa83d71f7117",
                 "attach":3,
                 "comment":"yes"
             }
@@ -38,17 +35,12 @@ export const Main=()=>{
         "task":[
             {
                 "name":"Build A better Burrito : 7 layer To success",
-                // "imageLink":"https://firebasestorage.googleapis.com/v0/b/ecell-1b04d.appspot.com/o/files%2FScreenshot%202023-09-22%20190610.png?alt=media&token=23c5be09-ea93-4f50-8d22-aa83d71f7117",
-                // "attach":3,
                 "taskDone":"0/7",
                 "comment":"yes",
                 "line":"orange"
             },
             {
                 "name":"Nacho Ordinary Birthday - Event Space Rentals",
-                // "imageLink":"https://firebasestorage.googleapis.com/v0/b/ecell-1b04d.appspot.com/o/files%2FScreenshot%202023-09-22%20190610.png?alt=media&token=23c5be09-ea93-4f50-8d22-aa83d71f7117",
-                // "attach":3
-                
                 "comment":"yes",
                 "line":"blue"
             },
@@ -60,7 +52,6 @@ export const Main=()=>{
             },
             {
                 "name":"Superbowl Ad - Super Salad Bowls",
-                // "imageLink":"https://firebasestorage.googleapis.com/v0/b/ecell-1b04d.appspot.com/o/files%2FScreenshot%202023-09-22%20190610.png?alt=media&token=23c5be09-ea93-4f50-8d22-aa83d71f7117",
                 "attach":3,
                 "date":"Dec 12",
                 "comment":"yes"
@@ -72,7 +63,6 @@ export const Main=()=>{
         "task":[
             {
                 "name":"The Taco Truck World Tour",
-                // "imageLink":"https://firebasestorage.googleapis.com/v0/b/ecell-1b04d.appspot.com/o/files%2FScreenshot%202023-09-22%20190610.png?alt=media&token=23c5be09-ea93-4f50-8d22-aa83d71f7117",
                 "attach":3,
                 "comment":"yes"
             },
@@ -86,13 +76,11 @@ export const Main=()=>{
             },
             {
                 "name":"NoFiller Instagram Campaign ",
-                // "imageLink":"https://firebasestorage.googleapis.com/v0/b/ecell-1b04d.appspot.com/o/files%2FScreenshot%202023-09-22%20190621.png?alt=media&token=8442da6a-39b9-4d17-84b1-7aa9eb9aa6eb",
                 "attach":3,
                 "line":"orange"
             },
             {
                 "name":"Global Franchise Opportunities",
-                // "imageLink":"https://firebasestorage.googleapis.com/v0/b/ecell-1b04d.appspot.com/o/files%2FScreenshot%202023-09-22%20190610.png?alt=media&token=23c5be09-ea93-4f50-8d22-aa83d71f7117",
                 "attach":3,
                 "comment":"yes"
             }
@@ -103,25 +91,20 @@ export const Main=()=>{
         "task":[
             {
                 "name":"Focus Group : Corn vs Flour Tortillas",
-                // "imageLink":"https://firebasestorage.googleapis.com/v0/b/ecell-1b04d.appspot.com/o/files%2FScreenshot%202023-09-22%20190610.png?alt=media&token=23c5be09-ea93-4f50-8d22-aa83d71f7117",
-                // "attach":3,
                 "comment":"yes"
             },
             {
                 "name":"New Swag: Socks, Scarves & Salsa",
-                // "imageLink":"https://firebasestorage.googleapis.com/v0/b/ecell-1b04d.appspot.com/o/files%2FScreenshot%202023-09-22%20190610.png?alt=media&token=23c5be09-ea93-4f50-8d22-aa83d71f7117",
                 "attach":3
             },
             {
                 "name":"Eco Friendly Utensils & Napkins ",
-                // "imageLink":"https://firebasestorage.googleapis.com/v0/b/ecell-1b04d.appspot.com/o/files%2FScreenshot%202023-09-22%20190621.png?alt=media&token=8442da6a-39b9-4d17-84b1-7aa9eb9aa6eb",
                 "attach":3,
                 "line":"blue",
                 "taskComplete":"3/3"
             },
             {
                 "name":"Upate Yelp Listing",
-                // "imageLink":"https://firebasestorage.googleapis.com/v0/b/ecell-1b04d.appspot.com/o/files%2FScreenshot%202023-09-22%20190610.png?alt=media&token=23c5be09-ea93-4f50-8d22-aa83d71f7117",
                 "attach":3,
                 "comment":"yes"
             }
