@@ -1,0 +1,172 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    background-image: linear-gradient( #006ea9, #00c7e8);
+}
+
+.main_section{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-content: space-around;
+    /* background-color: blue; */
+    background-image: linear-gradient(to bottom right, #006ea9, #00c7e8);
+    padding: 10px 0px;
+}
+
+.toDoBox_main
+{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+.toDoList_main {
+    display: flex;
+    flex-direction: column;
+    width: 23%;
+    background-image: linear-gradient(to bottom right, #e1e4e5, rgba(226,228,230,255));
+    /* margin: 10px 10px; */
+    padding: 10px 10px;
+    border-radius: 6px;
+    height: 100%;
+    padding-top: 0px;
+}
+.toDoList_head
+{
+    padding: 8px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.toDoList_main h1 {
+    margin: 2px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.toDoBox_lower
+{
+    display: flex;
+    background-color: white;
+    flex-direction: column;
+    padding: 0px 10px;
+    
+}
+.toDoBox_lower h4 {
+    margin: 5px 0px;
+    font-weight: 400;
+    font-size: 17px;
+}
+.toDobox_upper img
+{
+  width: 100%;;
+}
+.toDoBox_lower_inner
+{
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    margin: 12px 4px;
+}
+
+.toDoBox_attach {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin: 0px 7px; */
+    margin-right: 12px;
+}
+.toDoBox_attach h5 {
+    margin: 0px 4px;
+    font-size: 13px;
+    font-weight: 500;
+}
+.color_line {
+    height: 12px;
+    width: 24%;
+    /* background-color: orange; */
+    margin-top: 8px;
+    border-radius: 21px;
+}
+
+.taskComplete {
+    background-color: #10c810;
+    border-radius: 5px;
+    /* color: white; */
+}
+.taskComplete h5 {
+    margin: 3px 13px;
+    font-weight: 400;
+    color: white;
+}
+
+
+/* header  */
+
+.header_main
+{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+.header_left
+{
+    display: flex;
+    justify-content: space-around;
+}
+.header_heading1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 14px;
+    border-right: 1px solid #ffffff82;
+    /* font-size: 20px; */
+    margin: 19px 0px;
+}
+.header_heading1 h3 {
+    margin: 0px;
+    margin-right: 10px;
+    font-size: 20px;
+}
+.header_heading2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 14px;
+    border-right: 1px solid #ffffff82;
+    /* font-size: 20px; */
+    margin: 19px 0px;
+}
+.header_heading2 h3 {
+    margin: 0px;
+    margin-left: 9px;
+    font-size: 20px;
+}
+.header_heading3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 14px;
+    /* border-right: 1px solid white; */
+    /* font-size: 20px; */
+    margin: 19px 0px;
+}
+.header_heading3 h3 {
+    margin: 0px;
+    /* margin: initial; */
+    margin-left: 10px;
+}
+.header_heading3 h4 {
+    margin: 0px;
+    /* margin: initial; */
+    margin-left: 10px;
+    font-weight: 400;
+    text-decoration: underline;
+}
+.free_box {
+    padding: 3px 10px;
+    background-color: #3691c1eb;
+    margin-left: 10px;
+    border-radius: 28px;
+}
